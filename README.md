@@ -10,7 +10,7 @@ In broad terms we wish to collaborate with the water regulatory board to provide
 ## How to run:
 
 ### Option 1:
-Visit `www.cfdiitj.azurewebsites.net`
+Visit `cfdiitj.azurewebsites.net`
 Note: This option does not work sometimes due to problems in accessing APIs on cloud.
 ### Option 2: use the Github repo, deploy it locally either by installing node.js, npm and then running the following on command prompt:
 `npm start`
