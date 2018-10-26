@@ -7,10 +7,23 @@ This is to supply the land development authorities with a concrete plan as to ho
 ## Plan of Action: 
 In broad terms we wish to collaborate with the water regulatory board to provide guidelines/data to make canals in order to flush out excess water, essentially a hydrograph or a heatmap of water accumulation.
 
+## How to run:
+
+### Option 1:
+Visit `www.cfdiitj.azurewebsites.net`
+Note: This option does not work sometimes due to problems in accessing APIs on cloud.
+### Option 2: use the Github repo, deploy it locally either by installing node.js, npm and then running the following on command prompt:
+`npm start`
+### Option 3: No need to create a webapp, directly install http-server using npm and run 
+`http-server` in the root directory of the repository
+
+
 ## Tech Stack: 
 1. Arc-Gis </br>
-2. Django </br>
-3. Python </br>
-4. Sage Math </br>
-5. SciPy </br>
-6. wx-Maxima 
+2. JS(Node) </br>
+3. Python </br> 
+4. Git </br>
+5. WebRTC</br>
+6. Microsoft Azure Webservices</br>
+7. OpenGL </br>
+
